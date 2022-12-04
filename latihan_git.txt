@@ -1,6 +1,10 @@
 $ git config --global user.name "UsernameAnda" (username pada akun github)
 $ git config --global user.email emailanda@gmail.com(email)
-$ git config –-list (proses pengechekan akun)
+$ git config ï¿½-list (proses pengechekan akun)
 ---------------------------------------------
 $ git init (buat dulu folder di c/users/dedy/(nama folder beserta isinya, klik kanan folder pilih git bash here)
 $ git add belajar_git.txt
+$ git remote set-url origin https://github.com/Dedyrama23/dedy/latihan.git
+$ git push ï¿½u origin master
+https://github.com/Dedyrama23/Dedyrama23.git
+git memudahkan para developer dan programmer mengembangkan aplikasi
